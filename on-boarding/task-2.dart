@@ -90,6 +90,7 @@ void main() {
     print('4. View pending tasks');
     print('5. Edit a task');
     print('6. Delete a task');
+    print('7. Quit');
 
     var input = int.parse(stdin.readLineSync()!);
 
@@ -144,6 +145,9 @@ void main() {
         taskIndexToDelete -= 1;
         taskManager.deleteTask(taskIndexToDelete);
         break;
+      Case 7:
+        print('Thank you for your time');
+        return;
 
       default:
         print('Enter valid option');
