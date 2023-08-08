@@ -1,0 +1,17 @@
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/onboarding
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/images/getstartedscreen.png
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/images/addTaskScreen.png
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/images/getstarted.jpg
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/images/todolist.jpg
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/images/taskDetail.png
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/bisho/Documents/onboarding/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
