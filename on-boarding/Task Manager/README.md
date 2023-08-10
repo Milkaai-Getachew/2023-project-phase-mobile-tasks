@@ -1,16 +1,20 @@
-# to_do_app
+<h2>Home Page</h2>
 
-A new Flutter project.
+![UI](https://github.com/milkaai/2023-project-phase-mobile-tasks/blob/main/on-boarding/Task%20Manager/images/homeScreen.png)
 
-## Getting Started
+<h2>View tasks</h2>
 
-This project is a starting point for a Flutter application.
+![UI](https://github.com/milkaai/2023-project-phase-mobile-tasks/blob/main/on-boarding/Task%20Manager/images/secondPage.png)
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Create tasks</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![UI](https://github.com/milkaai/2023-project-phase-mobile-tasks/blob/main/on-boarding/Task%20Manager/images/thirdPage.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>View added tasks</h2>
+
+![UI](https://github.com/milkaai/2023-project-phase-mobile-tasks/blob/main/on-boarding/Task%20Manager/images/fourthPage.png)
+
+
+
+
+
